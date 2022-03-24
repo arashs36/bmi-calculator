@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+    <string name="_0">0</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="age">age</string>
+    <string name="_18">18</string>
+    <string name="weight">weight</string>
+    <string name="_60">60</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
 </resources>
